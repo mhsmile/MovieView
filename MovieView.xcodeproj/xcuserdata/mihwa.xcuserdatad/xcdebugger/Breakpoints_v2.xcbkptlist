@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieView/MoviesViewController.swift"
+            timestampString = "507452219.272933"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieView.MoviesViewController.__deallocating_deinit"
+                  moduleName = "MovieView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mihwa/Documents/develop/MovieView/MovieView/MoviesViewController.swift"
+                  timestampString = "507452220.332638"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieView.MoviesViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MovieView.MoviesViewController"
+                  moduleName = "MovieView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mihwa/Documents/develop/MovieView/MovieView/MoviesViewController.swift"
+                  timestampString = "507452220.337491"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieView.MoviesViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MovieView.MoviesViewController"
+                  moduleName = "MovieView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mihwa/Documents/develop/MovieView/MovieView/MoviesViewController.swift"
+                  timestampString = "507452220.339656"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieView.MoviesViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MovieView.MoviesViewController&gt;"
+                  moduleName = "MovieView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mihwa/Documents/develop/MovieView/MovieView/MoviesViewController.swift"
+                  timestampString = "507452220.344023"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieView.MoviesViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MovieView.MoviesViewController&gt;"
+                  moduleName = "MovieView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mihwa/Documents/develop/MovieView/MovieView/MoviesViewController.swift"
+                  timestampString = "507452220.346951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
